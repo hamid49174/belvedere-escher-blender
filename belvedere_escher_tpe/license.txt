@@ -1,0 +1,11 @@
+Model Information:
+* title:	Belvedere Escher TPe
+* source:	https://sketchfab.com/3d-models/belvedere-escher-tpe-0d06487f2d564793bcb0e603dc1c59ff
+* author:	francoistheking (https://sketchfab.com/francoistheking)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Belvedere Escher TPe" (https://sketchfab.com/3d-models/belvedere-escher-tpe-0d06487f2d564793bcb0e603dc1c59ff) by francoistheking (https://sketchfab.com/francoistheking) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
