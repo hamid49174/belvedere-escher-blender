@@ -1,0 +1,7 @@
+# Blender-Backups und temporäre Skripte
+*.blend1
+*.blend@
+tmp_*.py
+__pycache__/
+Thumbs.db
+desktop.ini
