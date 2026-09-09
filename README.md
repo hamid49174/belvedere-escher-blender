@@ -4,6 +4,16 @@ Blender-Python-Skripte für eine Mathe-Präsentation über M. C. Eschers *Belved
 
 ![Hero-Render](renders/01_hero_escher_modell.png)
 
+## Aufbau
+
+```
+scripts/          Blender-Python-Skripte (Import, Analyse, Overlays, Kameras, Render)
+blend/            .blend-Dateien und das GLB-Modell
+renders/          Ansichten mit Overlays
+renders_aligned/  korrigierte Geometrie am Gebäude
+praesentation/    Folien, Dokumentation, GeoGebra-Dateien der Prüfung
+```
+
 ## Skripte
 
 | Skript | Zweck |
@@ -19,10 +29,10 @@ Blender-Python-Skripte für eine Mathe-Präsentation über M. C. Eschers *Belved
 Ausführen in Blender (Scripting-Tab) oder per Kommandozeile:
 
 ```bash
-blender --background --python build_belvedere_math_scene.py
+blender --background --python scripts/build_belvedere_math_scene.py
 ```
 
-Die Skripte erwarten die `.blend`-Dateien im selben Ordner (`WORK_DIR` am Anfang jedes Skripts anpassen).
+Die `.blend`-Dateien und das GLB-Modell liegen in `blend/`, die Skripte in `scripts/`. `WORK_DIR` am Anfang jedes Skripts auf den eigenen Pfad zu `blend/` setzen.
 
 ## Renders
 
